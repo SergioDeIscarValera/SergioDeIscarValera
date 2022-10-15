@@ -9,14 +9,15 @@ Estudiante de **1º DAM** en el **IES Luis Vives**
 ## Proyectos
 
 <div style="display:flex; aline-item:center; justify-content:space-around; max-width:50%">
-    <a href="http://bigpig.somee.com/"><img src="http://bigpig.somee.com/img/pig.png" style="width: 40px; height:auto; margin: 0 1rem;"/></a>
+    <a href="http://bigpig.somee.com/"><img src="http://bigpig.somee.com/img/pig.png" height="55"/></a>
+    <a href="https://sergiodeiscarvalera.github.io/Curriculum-Vitae-Web/"><img src="https://i.postimg.cc/X7sFtKj6/iconmonstr-cv-3-240.png" height="55"/></a>
 </div>
 
 ___
 
 ## ⚡ Tecnologías favoritas ⚡
 
-<div style="display:flex; aline-item:center; justify-content:space-around; max-width:50%">
+<div style="display:flex; aline-item:center; justify-content:space-around; max-width:50%; gap:10px">
     <img src="https://i.postimg.cc/zXTVn2S5/62e131df7fe3599fdd46ecb3.png" height="45"/>
     <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="45"/>
     <img src="https://camo.githubusercontent.com/c084dd81e1577424180d491bd4cc9d4b9ff1268dfbf9142eb0ac442d61906c05/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3635302f312a7a7a7664526d484747584f4e5a7075513246657173512e706e67" height="45"/>
@@ -26,4 +27,8 @@ ___
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" height="45"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/150px-Adobe_Premiere_Pro_CC_icon.svg.png" height="45"/>
 </div>
+
+___
+
+<img src="https://i.postimg.cc/mD8BkL2c/octocat-1665822633598.png" height="200"/>
 </div>
