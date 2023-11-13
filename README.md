@@ -59,7 +59,7 @@
 <div align="center">
   <h2 style="color:#78c2ad;">🐍 Mis Contribuciones 🐍</h2>
 
-  <img alt="una serpiente comiéndose mis commits" src="https://raw.githubusercontent.com/sergiodeiscar/sergiodeiscar/output/github-contribution-grid-snake.svg" />
+  <img alt="una serpiente comiéndose mis commits" src="https://raw.githubusercontent.com/sergiodeiscarvalera/sergiodeiscarvalera/output/github-contribution-grid-snake.svg" />
   
   <br>
 
