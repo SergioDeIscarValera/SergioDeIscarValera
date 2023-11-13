@@ -1,34 +1,78 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sergiodeiscar.sergiodeiscar" />
+
+<br><br>
+
+<h1 align="center" style="display:flex;align-items:center;justify-content:center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&repeat=false&color=78c2ad&lines=Bienvenid@+👋;+Soy+Sergio+de+Iscar+Valera!;" />
+    <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="35px" height="35px"/>
+</h1>
+
+<br>
+
 <div align="center">
 
-# 👋 Bienvenido, soy ***Sergio de Iscar Valera*** <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="35px"/>
+📚 Estudiante de <span style="color:#f3969a">**2º DAM**</span> en el <span style="color:#56cc9d">**IES Luis Vives**</span>
 
-Estudiante de **1º DAM** en el **IES Luis Vives**
+🌱 Actualmente estoy aprendiendo <span style="color:#6cc3d5">**Docker, Dart, Firebase, MongoDB, Solidity...**</span>
 
----
+👨‍💻 En 2017 <span style="color:#ff7851">me sumergí en el mundo de la programación</span>, y desde entonces no he parado de <span style="color:#ffce67">aprender y mejorar mis habilidades</span>.
 
-## Proyectos
-
-<div style="display:flex; aline-item:center; justify-content:space-around; max-width:50%">
-    <a href="http://bigpig.somee.com/"><img src="http://bigpig.somee.com/img/pig.png" height="55"/></a>
-    <a href="https://sergiodeiscarvalera.github.io/Curriculum-Vitae-Web/"><img src="https://i.postimg.cc/X7sFtKj6/iconmonstr-cv-3-240.png" height="55"/></a>
 </div>
 
-___
-
-## ⚡ Tecnologías favoritas ⚡
-
-<div style="display:flex; aline-item:center; justify-content:space-around; max-width:50%; gap:10px">
-    <img src="https://i.postimg.cc/zXTVn2S5/62e131df7fe3599fdd46ecb3.png" height="45"/>
-    <img src="https://static.cdnlogo.com/logos/c/27/c.svg" height="45"/>
-    <img src="https://camo.githubusercontent.com/c084dd81e1577424180d491bd4cc9d4b9ff1268dfbf9142eb0ac442d61906c05/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3635302f312a7a7a7664526d484747584f4e5a7075513246657173512e706e67" height="45"/>
-    <img src="https://camo.githubusercontent.com/309bd1d3bd253dff456421a439882e5189b95a839120f0555d7172ff277e99c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f35313270782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" height="45"/>
-    <img src="https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" height="45"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" height="45"/>
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.png" height="45"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/150px-Adobe_Premiere_Pro_CC_icon.svg.png" height="45"/>
+<div align="center">
+  <a href="mailto:seroigres888@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sergio-de-iscar-valera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://sergiodeiscarvalera.github.io/Portfolio-SergioDeIscar/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
 
-___
+ <hr/>
 
-<img src="https://i.postimg.cc/mD8BkL2c/octocat-1665822633598.png" height="200"/>
+ <h2 align="center" style="color:#6cc3d5;">⚒️ Languages-Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=unity,blender,cs,dart,git,kotlin,solidity,java" />
+    <img src="https://skillicons.dev/icons?i=cpp,docker,firebase,flutter,mongodb,pr,ae,threejs" /><br>
+</div>
+
+<br>
+<hr>
+
+<div align="center" >
+<h2 style="color:#ff7851;">🎯 Mis Proyectos 🎯</h2>
+
+<div style="display:flex;align-items:center;justify-content:center;wight=100%">
+<a href="http://bigpig.somee.com/" style="margin-right:1rem"><img src="http://bigpig.somee.com/img/pig.png" height="55"/></a>
+<a href="https://sergiodeiscarvalera.github.io/Curriculum-Vitae-Web/" style="margin-right:1rem"><img src="https://i.postimg.cc/X7sFtKj6/iconmonstr-cv-3-240.png" height="55"/></a>
+<a href="https://github.com/SergioDeIscarValera/PokeFlutter" style="margin-right:1rem"><img src="https://i.postimg.cc/j5dJJX9L/playstore.png" height="55"/></a>
+</div>
+  
+<br>
+
+</div>
+
+<div align="center">
+  <h2 style="color:#78c2ad;">🐍 Mis Contribuciones 🐍</h2>
+
+  <img alt="una serpiente comiéndose mis commits" src="https://raw.githubusercontent.com/sergiodeiscar/sergiodeiscar/output/github-contribution-grid-snake.svg" />
+  
+  <br>
+
+</div>
+
+<hr/>
+
+<h2 align="center" style="color:#ffce67;">⚡ Estadísticas ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=sergiodeiscarvalera&count_private=true&theme=noctis_minimus&border_radius=10&locale=es" alt="streak stats"/>
+  <!-- theme material is better -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sergiodeiscarvalera&count_private=true&show_icons=true&theme=noctis_minimus&rank_icon=github&border_radius=10&locale=es" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodeiscarvalera&hide=HTML&langs_count=8&layout=compact&locale=es&theme=noctis_minimus&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
