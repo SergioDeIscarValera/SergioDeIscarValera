@@ -11,11 +11,11 @@
 
 <div align="center">
 
-📚 Estudiante de <span style="color:#f3969a">**2º DAM**</span> en el <span style="color:#56cc9d">**IES Luis Vives**</span>
+👨‍💻 Trabajando en <span style="color:#6cc3d5">Ahyres</span>, una startup de sector drones, donde desarrollo <span style="color:#ffce67">SaaS</span>.
 
-🌱 Actualmente estoy aprendiendo <span style="color:#6cc3d5">**Docker, Dart, Firebase, MongoDB, Solidity...**</span>
+📚 Graduado en <span style="color:#f3969a">**DAM**</span> en el <span style="color:#56cc9d">**IES Luis Vives**</span>
 
-👨‍💻 En 2017 <span style="color:#ff7851">me sumergí en el mundo de la programación</span>, y desde entonces no he parado de <span style="color:#ffce67">aprender y mejorar mis habilidades</span>.
+👨‍💻 En 2017 <span style="color:#ff7851;">me sumergí en el mundo de la programación</span>, y desde entonces no he parado de <span style="color:#ffce67;">aprender y mejorar mis habilidades</span>.
 
 </div>
 
@@ -36,8 +36,10 @@
  <h2 align="center" style="color:#6cc3d5;">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=unity,blender,cs,dart,git,kotlin,solidity,java" />
-    <img src="https://skillicons.dev/icons?i=cpp,docker,firebase,flutter,mongodb,pr,ae,threejs" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,dart,py,kotlin,java,ts,js,solidity" />
+    <img src="https://skillicons.dev/icons?i=unity,flutter,fastapi,mongodb,spring,react,git,docker" />
+    <img src="https://skillicons.dev/icons?i=blender,firebase,graphql,dotnet,threejs,postgres,raspberrypi,cpp" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,figma,notion,pr,ae,flask,grafana" />
 </div>
 
 <br>
@@ -52,6 +54,7 @@
 <a href="https://github.com/SergioDeIscarValera/PokeFlutter" style="margin-right:20px"><img src="https://i.postimg.cc/j5dJJX9L/playstore.png" height="55"/></a>
 <a href="https://github.com/SergioDeIscarValera/ClimaFlutter" style="margin-right:1rem"><img src="https://i.postimg.cc/653t98Yy/sunny.png" height="55"/></a>
 <a href="https://github.com/SergioDeIscarValera/PomoFlutter" style="margin-right:1rem"><img src="https://i.postimg.cc/WzNTXrSJ/logo.png" height="55"/></a>
+<a href="https://github.com/SergioDeIscarValera/VirtualOrigen" style="margin-right:1rem"><img src="https://i.postimg.cc/R08KdxzT/android-chrome-512x512.png" height="55"/></a>
 </div>
   
 <br>
