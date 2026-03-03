@@ -67,7 +67,7 @@
     <a href="https://www.linkedin.com/company/ahyres" style="margin-right:1rem"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQG8BmkF2jbVOA/company-logo_100_100/company-logo_100_100/0/1736864942814/ahyres_logo?e=1773878400&v=beta&t=epU1P2-8FGBxg3dBAKgQnQ4WbGA4SyhEXlzlUMRb8zU" height="55"/></a>
     <a href="https://www.linkedin.com/company/seshatai" style="margin-right:1rem"><img src="https://media.licdn.com/dms/image/v2/D4D0BAQF-94A_xLVgEA/company-logo_100_100/company-logo_100_100/0/1724146882401?e=1773878400&v=beta&t=T0gs8Tb-llmRe9KxrBWYT8PMXF0D1aoquWCer-f8dp4" height="55"/></a>
     <a href="https://www.linkedin.com/posts/sergio-de-iscar-valera_todav%C3%ADa-desarrollas-mvps-picando-l%C3%ADnea-activity-7371271210237714434-qH0Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5NgUYBYiQj0ypBILny8eOUoFFptVtuRDQ" style="margin-right:1rem"><img src="https://cdn.gamma.app/wkerzcgyoxy465y/a4da7d50aed14307ac04fe4a53233acc/original/MVP-Maker-heavy.jpg" height="55"/></a>
-    <a href="https://www.linkedin.com/posts/sergio-de-iscar-valera_todav%C3%ADa-desarrollas-mvps-picando-l%C3%ADnea-activity-7371271210237714434-qH0Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5NgUYBYiQj0ypBILny8eOUoFFptVtuRDQ" style="margin-right:1rem"><img src="https://i.postimg.cc/R08KdxzT/android-chrome-512x512.png" height="55"/></a>
+    <a href="https://github.com/SergioDeIscarValera/VirtualOrigen" style="margin-right:1rem"><img src="https://i.postimg.cc/R08KdxzT/android-chrome-512x512.png" height="55"/></a>
     <a href="https://sergiodeiscarvalera.github.io/Portfolio-SergioDeIscar/" style="margin-right:20px"><img src="https://i.postimg.cc/X7sFtKj6/iconmonstr-cv-3-240.png" height="55"/></a>
 </div>
 
@@ -102,7 +102,7 @@ Stack: OpenAI + Gemini + N8N + Railway + ElevenLabs + FastAPI + React + MongoDB 
 **🏠 Virtual Origen** - *TFG IES Luis Vives* (Jun 2024) <br>
 Aplicación diseñada para la obtimización del uso energetico en hogares descentralizados (abastecidos unicamente por placas solares) mediante el control de IOT <br>
 Stack: Flutter + C# + MQTT + Firebase <br>
-[Link](https://www.linkedin.com/posts/sergio-de-iscar-valera_todav%C3%ADa-desarrollas-mvps-picando-l%C3%ADnea-activity-7371271210237714434-qH0Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5NgUYBYiQj0ypBILny8eOUoFFptVtuRDQ)
+[Link](https://github.com/SergioDeIscarValera/VirtualOrigen)
 
 </div>
 
